@@ -2,7 +2,8 @@
 
 A simple chatbot starter kit for OpenAI's chat model using Next.js, TypeScript, and Tailwind CSS.
 
-![Chatbot UI](./public/screenshot.png)
+![image](https://github.com/redblood639/ChatGPT-python-node/assets/72724141/7bbf104e-d6ff-4337-8ef5-ac969b6552c3)
+
 
 ## Features
 
@@ -18,19 +19,15 @@ Tweak the assistant prompt in `pages/index.tsx`.
 
 ## Running Locally
 
-**1. Clone Repo**
 
-```bash
-git clone https://github.com/cagesanta/next-chatbot.git
-```
 
-**2. Install Dependencies**
+**1. Install Dependencies**
 
 ```bash
 npm i
 ```
 
-**3. Provide OpenAI API Key**
+**2. Provide OpenAI API Key**
 
 Create a .env.local file in the root of the repo with your OpenAI API Key:
 
@@ -38,20 +35,14 @@ Create a .env.local file in the root of the repo with your OpenAI API Key:
 OPENAI_API_KEY=<YOUR_KEY>
 ```
 
-**4. Run App**
+**3. Run App**
 
 ```bash
 npm run dev
 ```
 
-**5. Start Building**
+**4. Start Building**
 
 You should be able to start chatting with the bot.
 
 Now, go build the app into whatever kind of chatbot you want!
-
-## Contact
-
-If you have any questions, feel free to reach out to me on [Twitter](https://twitter.com/mckaywrigley).
-
-I'd also love to see what you build with this starter kit - share your projects with me!
